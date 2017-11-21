@@ -2,4 +2,5 @@
 
 Starting course in 2017-10-21
 
-run : npm install to install the dependencies
+#  to install the dependencies
+run : npm install
